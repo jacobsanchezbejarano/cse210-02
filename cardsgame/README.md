@@ -45,4 +45,4 @@ root                    (project root folder)
 
 ---
 
-- Matt Manley (manleym@byui.edu)
+- Jacob Sanchez Bejarano (jake_76847@hotmail.com)
